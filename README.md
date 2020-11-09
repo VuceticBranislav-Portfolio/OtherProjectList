@@ -1,5 +1,5 @@
 ByteCalculator
- Brojac karaktera u fajlu uz graficki prikaz ucestalosti svakog karaktera.
+Brojac karaktera u fajlu uz graficki prikaz ucestalosti svakog karaktera.
 
 CommanderPlaner
  Planer za Hereoes III komander skilove. Postoji 6 primarnih skilova od kojih samo 4 mogu biti odabrana. 
