@@ -2,9 +2,9 @@ ByteCalculator
 Brojac karaktera u fajlu uz graficki prikaz ucestalosti svakog karaktera.
 
 CommanderPlaner
- Planer za Hereoes III komander skilove. Postoji 6 primarnih skilova od kojih samo 4 mogu biti odabrana. 
- Svaki primarni skil ima 5 nivoa. Po dva primarna skila 5og nivoa otkljucavaju dodatne skilove. 
- Na ovaj nacin moze biti otkljucano najvise 6 dodatnih skilova.
+Planer za Hereoes III komander skilove. Postoji 6 primarnih skilova od kojih samo 4 mogu biti odabrana.
+Svaki primarni skil ima 5 nivoa. Po dva primarna skila 5og nivoa otkljucavaju dodatne skilove.
+Na ovaj nacin moze biti otkljucano najvise 6 dodatnih skilova.
 
 D2Inventory
  Diablo 2 alat za modifikaciju izgleda inventara. Sadrzi graficki editor za manipulaciju. 
